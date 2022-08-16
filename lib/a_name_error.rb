@@ -1,3 +1,4 @@
-"hello world"
+a_greeting = "hello world"
 
-hello_world
+#hello_world
+a_greeting
